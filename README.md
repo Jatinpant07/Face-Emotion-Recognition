@@ -1,5 +1,5 @@
 
-# Facial Emotion Recognition (FER-2013) Project
+# Emotiona.ai : Facial Emotion Recognition (FER-2013) Project
 
 This project utilizes the FER-2013 dataset to recognize facial emotions. It consists of two main components:
 
